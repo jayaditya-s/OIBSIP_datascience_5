@@ -31,4 +31,4 @@ jupyter notebook Sales_Prediction.ipynb
 ```
 
 ## Demo Video
-<YouTube/LinkedIn link>
+<LinkedIn link> https://lnkd.in/p/gkrn7jkT
